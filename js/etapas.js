@@ -37,7 +37,7 @@ let etapas = [
 			},
 			{
 				numero: '95001',
-				nome: 'Juiz Dredd',
+				nome: 'Juiz Dregg',
 				partido: 'PLJ',
 				foto: [
 					{ url: '95001.png', legenda: 'Vereador' }
@@ -49,6 +49,30 @@ let etapas = [
 				partido: 'PVL',
 				foto: [
 					{ url: '99001.png', legenda: 'Vereador' }
+				]
+			},
+			{
+				numero: '99999',
+				nome: 'ghzinnX',
+				partido: 'capa',
+				foto: [
+					{ url: '88001.png', legenda: 'Vereador' }
+				]
+			},
+			{
+				numero: '00000',
+				nome: 'Ysummit',
+				partido: 'peito',
+				foto: [
+					{ url: '84_2.png', legenda: 'Vereador' }
+				]
+			},
+			{
+				numero: '12345',
+				nome: 'Raissa',
+				partido: "SARAH'S BEAUTY",
+				foto: [
+					{ url: '84.png', legenda: 'Vereador' }
 				]
 			},
 		]
